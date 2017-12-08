@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank Solutions
+30 Days of Code Challenges Solutions in Java
